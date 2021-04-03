@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahsank01
+- 👋 Hi, I’m @Ahsank01 | Ahsan Khan
 - 👀 I’m interested in Cyber Security and Software Development.
 - 🌱 I’m currently learning Cyber Security and Bug Bounty!!!
 - 💞️ I’m looking to collaborate on any Softare/Web related project or Cyber Security.
